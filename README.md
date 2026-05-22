@@ -2,6 +2,12 @@
 
 This project is a Python-based News Information Aggregator. It uses a public News API to fetch article headlines, uses web scraping to extract additional article text, processes the data, visualizes news trends, and displays everything in a Streamlit GUI.
 
+## Live Demo
+
+The deployed Streamlit app is available here:
+
+https://news-information-aggregator-nxecada88p5c2mtourejux.streamlit.app/
+
 ## Features
 
 - Fetch current news articles using NewsAPI
